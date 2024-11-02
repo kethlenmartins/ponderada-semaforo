@@ -16,6 +16,8 @@ A ideia do sensor ultrassônico, pelo projeto ser um semáforo, é que, sempre q
 
 ## Vídeo do semáforo
 
+[Acesse o vídeo da ponderada aqui](https://youtu.be/Kn6KX7OYEzk)
+
 ## Fotos do circuito
 
 Abaixo estão as fotos que demonstram as ligações do sistema.
@@ -50,7 +52,7 @@ Abaixo estão as fotos que demonstram as ligações do sistema.
 
 ## Avaliação em pares
 
-### Avaliador 1: Nicolas
+### Avaliador 1: Nicolas Ramon
 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
